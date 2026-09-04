@@ -432,4 +432,3 @@ The experiments use the **20BN-Jester** dataset:
 
 No explicit license file is currently included in this repository.
 
-If you intend others to reuse, modify, or redistribute the code, add an appropriate `LICENSE` file and make sure the license is compatible with any upstream code that was reused or adapted.
